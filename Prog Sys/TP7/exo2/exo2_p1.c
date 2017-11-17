@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "djikstra/djikstra.h"
+#include "../lib/djikstra/djikstra.h"
 
 #define CLE_1 1
 #define CLE_2 2
